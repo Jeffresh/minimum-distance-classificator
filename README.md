@@ -1,2 +1,2 @@
 # Minimum distance classificator
-A example of a minimum distance classificator doing a comparison between using Mahalanobis distance and Euclidean distance.
+An example of a minimum distance classificator doing a comparison between using Mahalanobis distance and Euclidean distance.
